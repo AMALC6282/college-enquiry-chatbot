@@ -12,8 +12,8 @@ app.static_folder = 'static'
 
 app.config.update(dict(
     RECAPTCHA_ENABLED = True,
-    RECAPTCHA_SITE_KEY = "6LdbAx0aAAAAAANl04WHtDbraFMufACHccHbn09L",
-    RECAPTCHA_SECRET_KEY = "6LdbAx0aAAAAAMmkgBKJ2Z9xsQjMD5YutoXC6Wee"
+    RECAPTCHA_SITE_KEY = "6Lc_J44mAAAAAOfD0KSHYg2zrjCiM3WQ281WkbR5",
+    RECAPTCHA_SECRET_KEY = "6Lc_J44mAAAAAK7B1ROBVDjiQDSItQOtBa8TkT-n"
 ))
 
 recaptcha=ReCaptcha()
