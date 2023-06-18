@@ -6,7 +6,7 @@ spacy.load('en_core_web_sm')
 from chatterbot.trainers import ChatterBotCorpusTrainer
 
 # Creating ChatBot Instance
-chatbot = ChatBot('<b>CRCE BOT</b>')
+chatbot = ChatBot('<b>COET BOT</b>')
 
 # nlp = spacy.load("en_core_web_sm")
 
